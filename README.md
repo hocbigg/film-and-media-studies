@@ -15,6 +15,9 @@ This roadmap provides a structured, self-paced curriculum equivalent to a 4-year
 - **Milestones**: Defined at phase transitions to assess readiness. These include self-evaluations, such as writing reflective essays or completing small projects.
 - **Specialization Tracks**: In the Advanced phase, choose one track for deeper focus: (1) Production and Filmmaking (hands-on creation), (2) Theory and Criticism (analytical depth), (3) Media and Society (cultural and social impacts), or (4) Digital and New Media (emerging technologies). Tracks include 3–4 elective subjects each, allowing customization while maintaining breadth.
 
+When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
+they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
+
 # Curriculum
 
 ## Phase 1: Introduction
