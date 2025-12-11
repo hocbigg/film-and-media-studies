@@ -1,26 +1,73 @@
 <div align="center" style="text-align: center">
-<img src="images/ossu-logo.webp" alt=""/>
+
 <h3>Hocbigg - Film and Media Studies</h3>
 <p>
   Path to a free self-taught education in Film and Media Studies!
 </p>
 </div>
 
+# Contents
+
+- [Summary](#summary)
+- [Communities](#communities)
+- [Curriculum](#curriculum)
+- [Code of conduct](#code-of-conduct)
+
 # Summary
 
-This roadmap provides a structured, self-paced curriculum equivalent to a 4-year undergraduate degree in Film and Media Studies, condensed into 1–2 years of study at approximately 20 hours per week. It is designed in the style of the Open Source Society University (OSSU), emphasizing logical progression, prerequisites, and a balance of theoretical knowledge, practical skills, and synthetic application. The program is divided into four phases: Introduction, Core, Advanced, and Capstone. These phases can be mapped to a semester-like structure assuming 12–16 weeks per phase, allowing flexibility for 1 year (intensive pace) or 2 years (balanced pace).
+This roadmap provides a structured, self-paced curriculum equivalent to a 4-year undergraduate degree in Film and Media Studies, condensed into 1–2 years of study at approximately 20 hours per week. 
+
+## Organization
+The program is divided into four phases: Introduction, Core, Advanced, and Capstone.
 
 - **Total Estimated Workload**: 1,000–2,000 hours, depending on pace and depth. Allocate ~20 hours/week across subjects in active phases, including reading, analysis, exercises, and projects.
 - **Progression Logic**: Subjects build sequentially with clear prerequisites to ensure foundational skills are mastered before advancing. Theory is balanced with practice (e.g., analysis and creation), and synthesis occurs through milestones and the capstone.
 - **Milestones**: Defined at phase transitions to assess readiness. These include self-evaluations, such as writing reflective essays or completing small projects.
-- **Specialization Tracks**: In the Advanced phase, choose one track for deeper focus: (1) Production and Filmmaking (hands-on creation), (2) Theory and Criticism (analytical depth), (3) Media and Society (cultural and social impacts), or (4) Digital and New Media (emerging technologies). Tracks include 3–4 elective subjects each, allowing customization while maintaining breadth.
+- **Specialization Tracks**: Choose one track to specialize in and complete all the courses listed under it: (1) Production and Filmmaking (hands-on creation), (2) Theory and Criticism (analytical depth), (3) Media and Society (cultural and social impacts), or (4) Digital and New Media (emerging technologies). Tracks include 3–4 elective subjects each, allowing customization while maintaining breadth.
 
-When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
+Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
+
+**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
+
+- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
+- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
+- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
+
+**[How to contribute](CONTRIBUTING.md)**
+
+# Communities
+
+- Forums:
+  - [StudentFilms.com Forums](https://www.studentfilms.com/forums/)
+  - [IndieTalk](https://indietalk.com/)
+  - [FilmSchool.org Forums](https://www.filmschool.org/forums/)
+  - [ICM Forum](https://www.icmforum.com/)
+  - [DVXuser](https://www.dvxuser.com/)
+- Subreddits:
+  - [r/TrueFilm](https://www.reddit.com/r/TrueFilm/)
+  - [r/Filmmakers](https://www.reddit.com/r/Filmmakers/)
+  - [r/TrueFilm](https://www.reddit.com/r/TrueFilm/)
+  - [r/FilmTheory](https://www.reddit.com/r/filmtheory/)
+  - [r/mediastudies](https://www.reddit.com/r/mediastudies/)
+  - [r/FilmStudies](https://www.reddit.com/r/FilmStudies/)
+  - [r/criterion](https://www.reddit.com/r/criterion/)
+- Discord servers: [Movies & Filmmaking](https://discord.gg/films)
+- Other: [Rough Cuts Filmmakers (Slack)](https://roughcutsfilmmakers.slack.com/)
+- You can also interact through [GitHub issues](https://github.com/hocbigg/film-and-media-studies/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 
 # Curriculum
 
-## Phase 1: Introduction
+- [Introduction](#introduction)
+- [Core](#core)
+- [Advanced](#advanced)
+    - [Production and Filmmaking Track](#production-and-filmmaking-track)
+    - [Theory and Criticism Track](#theory-and-criticism-track)
+    - [Media and Society Track](#media-and-society-track)
+    - [Digital and New Media Track](#digital-and-new-media-track)
+- [Capstone](#capstone)
+
+## Introduction
 This phase orients learners to the field, building basic literacy and historical context. Equivalent to the first semester of a traditional program. Complete in 12–16 weeks at 15–20 hours/week.
 
 | Subject | Why study? | Book | Videos |
@@ -30,7 +77,7 @@ This phase orients learners to the field, building basic literacy and historical
 
 **Milestone**: After completing this phase, demonstrate basic proficiency through a short analytical essay on a selected film or media piece, identifying key elements and biases.
 
-## Phase 2: Core
+## Core
 This phase covers the breadth of the field, equivalent to the second and third years of a traditional program. Focus on building analytical, historical, and practical skills. Complete in 24–32 weeks (split into two sub-phases if needed) at 20 hours/week, with subjects studied sequentially or in parallel where prerequisites allow.
 
 | Subject | Why study? | Book | Videos |
@@ -44,7 +91,7 @@ This phase covers the breadth of the field, equivalent to the second and third y
 
 **Milestone**: After this phase, compile a portfolio of analyses (e.g., essays on historical films, breakdowns of media narratives) and a short media project, reflecting core competencies in theory, history, and practice.
 
-## Phase 3: Advanced
+## Advanced
 
 This phase allows specialization, equivalent to the final year of a traditional program. Select one track and complete its subjects, plus any cross-track electives for breadth. Complete in 12–16 weeks at 20 hours/week, focusing on deeper inquiry and synthesis.
 
@@ -87,9 +134,19 @@ Choose one specialization track:
 | **[Interactive and Transmedia Storytelling](https://www.futurelearn.com/courses/transmedia-storytelling)** | To design engaging multi-platform narratives, adapting to digital convergence. | *Transmedia Storytelling: Building Worlds For Creative Properties* by Max Giovagnoli | Transmedia Storytelling (FutureLearn by University of Westminster) |
 | **[Data and Analytics in Media](https://www.coursera.org/learn/digital-storytelling)** | To leverage metrics for content creation and distribution, understanding big data's role. | *Media Analytics: Concepts and Applications* by Matthew Ganis | Powerful Tools for Teaching and Learning: Digital Storytelling (Coursera by University of Houston, includes analytics elements) |
 
-## Phase 4: Capstone
+## Capstone
 This final phase synthesizes all prior learning through an independent project. Complete in 8–12 weeks at 15–20 hours/week, allowing time for iteration and reflection. Successful completion of the capstone project, including a final presentation or defense (self-recorded or written), marks program graduation. This ensures a holistic synthesis of theory, practice, and specialization.
 
 | Subject | Why study? | Book | Videos |
 | --- | --- | --- | --- |
 | **[Capstone Project in Film and Media Studies](https://www.udemy.com/course/documentary-filmmaking-masterclass)** | To apply accumulated knowledge in a real-world context, demonstrating mastery and preparing for professional or further academic pursuits. | *The Filmmaker's Handbook: A Comprehensive Guide for the Digital Age* by Steven Ascher and Edward Pincus | Documentary Filmmaking Masterclass (Udemy project-based course) |
+
+## Congratulations
+
+After completing the requirements of the curriculum above,
+you will have completed the equivalent of a full bachelor's degree in Film and Media Studies.
+Congratulations!
+
+# Code of conduct
+
+[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
