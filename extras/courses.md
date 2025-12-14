@@ -37,8 +37,7 @@ Courses | Duration | Effort
 [Media and Society](https://www.coursera.org/learn/media-and-society) | 5 weeks | 4 hours/week
 [Global Media Studies](https://asuonline.asu.edu/online-degree-programs/graduate/master-advanced-study-american-media-and-popular-culture/) | - | Self-paced
 
-# Online Learning - Great Courses
-
+## Online Learning - Great Courses
 
 Courses | Duration | Effort
 :-- | :--: | :--:
