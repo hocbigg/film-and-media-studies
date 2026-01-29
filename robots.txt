@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hocbigg.github.io/film-and-media-studies/sitemap.xml
