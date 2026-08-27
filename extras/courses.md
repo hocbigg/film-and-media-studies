@@ -1,46 +1,36 @@
 # Great Courses
 
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
-The most common reasons are that the course isn't available often enough,
-or that there was an alternative that fit better into the curriculum.
+A curated directory of high-signal university lecture series, OpenCourseWare archives, verified MOOCs, and masterclasses in **Film and Media Studies**. These resources expand upon foundational study with deep-dives into transnational cinema, film philosophy, digital platform governance, and cinematic craft.
 
-## Topic
+- [Cinema History, Global Industries, and Transnational Film](#cinema-history-global-industries-and-transnational-film)
+- [Film Aesthetics, Philosophy, and Critical Analysis](#film-aesthetics-philosophy-and-critical-analysis)
+- [Digital Media, Algorithmic Platforms, and Game Studies](#digital-media-algorithmic-platforms-and-game-studies)
+- [Cinematic Craft, Directing, and Screenwriting Masterclasses](#cinematic-craft-directing-and-screenwriting-masterclasses)
 
-# Film and Media Studies – Great Courses
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
+## Cinema History, Global Industries, and Transnational Film
 
-## History
+- [Hollywood: History, Industry, Art (PennX / University of Pennsylvania / Peter Decherney)](https://www.edx.org/course/hollywood-history-industry-art-pennx-hollywoodx)
+- [Hong Kong Cinema Through a Global Lens (HKUx / The University of Hong Kong / Gina Marchetti et al.)](https://www.edx.org/course/hong-kong-cinema-through-global-lens-hkux-hku06-1x)
+- [The Film Experience: History, Genre, and Form (MIT OpenCourseWare / David Thorburn)](https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/)
+- Television Studies: Text, Industry, and Audiences (The Open University / OpenLearn)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Hollywood: History, Industry, Art](https://www.edx.org/learn/film/university-of-pennsylvania-hollywood-history-industry-art) | 4 weeks | 3-4 hours/week
-[The History of Film and Television](https://www.classcentral.com/course/the-great-courses-the-history-of-film-and-television-20996) | - | 12 hours total
+## Film Aesthetics, Philosophy, and Critical Analysis
 
-## Theory
+- [Philosophy In Film and Other Media (MIT OpenCourseWare / Irving Singer)](https://ocw.mit.edu/courses/24-209-philosophy-in-film-and-other-media-spring-2004/)
+- [Studies in Film: Narrative and Genre (MIT OpenCourseWare / Alvin Kibel)](https://ocw.mit.edu/courses/21l-706-studies-in-film-fall-2005/)
+- Cinema and Psychoanalysis Lecture Series (European Graduate School / Slavoj Zizek)
+- BFI Masterclass Series: Critical Film Aesthetics and Historiography (British Film Institute)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Film Theory and Criticism](https://www.my-mooc.com/en/mooc/film-theory-and-criticism/) | 6 weeks | 2-3 hours/week
-[Introduction to Film Studies](https://www.youtube.com/playlist?list=PL3C690D64A818D174) | - | Self-paced
+## Digital Media, Algorithmic Platforms, and Game Studies
 
-## Production
+- [Introduction to Videogame Studies (MIT OpenCourseWare / CMS.300)](https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/)
+- [Digital Humanities and Comparative Media Studies (MIT OpenCourseWare / CMS.633)](https://ocw.mit.edu/courses/cms-633-digital-humanities-spring-2015/)
+- [Media Governance: Regulating Communications in the Digital Age (Coursera / University of Amsterdam)](https://www.coursera.org/learn/media-governance)
+- Platform Studies and Software Culture Lectures (Virtual Open Humanities / Lev Manovich)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Filmmaking and Animation in the Classroom](https://www.futurelearn.com/courses/filmmaking-and-animation-in-the-classroom) | 3 weeks | 3 hours/week
-[Digital Filmmaking](https://krieger.jhu.edu/film-media/undergraduate/courses/) | 14 weeks | 5-7 hours/week
+## Cinematic Craft, Directing, and Screenwriting Masterclasses
 
-## Media and Society
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Media and Society](https://www.coursera.org/learn/media-and-society) | 5 weeks | 4 hours/week
-[Global Media Studies](https://asuonline.asu.edu/online-degree-programs/graduate/master-advanced-study-american-media-and-popular-culture/) | - | Self-paced
-
-## Online Learning - Great Courses
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2 hours/week
-[Mindshift](https://www.coursera.org/learn/mindshift) | 4 weeks | 2 hours/week
-[Powersearching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) | 3 weeks | 4-6 hours/week
+- [The Art of Filmmaking Specialization (Coursera / California Institute of the Arts)](https://www.coursera.org/specializations/filmmaking)
+- [Script Writing: Write a Feature-Length Screenplay for Film or Television (Coursera / Michigan State University / David Wheeler)](https://www.coursera.org/learn/script-writing)
+- BAFTA Screenwriters' Lecture Series (BAFTA Guru / British Academy of Film and Television Arts)
+- Directing Masterclass Series: Spatial Blocking and Mise-en-Scène (American Film Institute Conservatory)

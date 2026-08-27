@@ -1,28 +1,54 @@
 # Advanced Topics
 
-This section contains four optional paths you can follow **after** finishing the Core (or at least the first four sections of the Core). You do **not** need to do all of them.
+This curriculum provides specialized tracks for advanced study in Film and Media Studies following the completion of foundational core coursework. Learners may choose one or more tracks aligned with their academic research or creative production goals.
 
-- **A. Production and Filmmaking** – for people who want to learn how to make films and videos  
-- **B. Theory and Criticism** – for those who love deep analysis, writing reviews, and theoretical ideas  
-- **C. Media and Society** – for people interested in media industries, politics, policy, and global impact  
-- **D. Digital and New Media** – for those drawn to platforms, algorithms, internet culture, and emerging technologies  
+- [Advanced Film Theory, Aesthetics, and Philosophy](#advanced-film-theory-aesthetics-and-philosophy) – Explores continental philosophy, phenomenology, psychoanalysis, and postcolonial frameworks in cinema.
+- [Media Industry Studies, Labor, and Political Economy](#media-industry-studies-labor-and-political-economy) – Investigates industrial mechanisms, global platform distribution, regulatory policies, and creative labor structures.
+- [Digital Media, Algorithmic Culture, and Game Studies](#digital-media-algorithmic-culture-and-game-studies) – Analyzes computational media, platform capitalism, content moderation, game theory, and generative AI aesthetics.
+- [Advanced Narrative Architecture and Audiovisual Craft](#advanced-narrative-architecture-and-audiovisual-craft) – Examines complex serial narratology, advanced mise-en-scène, non-linear screenwriting, and acoustic design.
+- [Documentary, Avant-Garde, and Archival Media Archaeology](#documentary-avant-garde-and-archival-media-archaeology) – Focuses on non-fiction rhetoric, experimental moving images, archival preservation, and videographic film criticism.
 
-### A. Production and Filmmaking
+## Advanced Film Theory, Aesthetics, and Philosophy
 
-- **[_Directing: Film Techniques and Aesthetics_ — Rabiger & Hurbis-Cherrier](https://www.amazon.com/Directing-Film-Techniques-Aesthetics-Michael/dp/1138027537)** (Amazon; preview available)
-- **[_Screenplay_ — Syd Field](https://archive.org/details/screenplayfounda0000fiel)** (Archive.org)
+| Topic | Why Study | Resources |
+| --- | --- | --- |
+| Deleuzian Cinema: Movement-Image and Time-Image | Investigates Gilles Deleuze's philosophical taxonomy of cinematic signs, moving beyond linguistic semiotics to understand how cinema renders time, thought, memory, and duration visible. | - **_Cinema 1: The Movement-Image_ and _Cinema 2: The Time-Image_ — Gilles Deleuze** (University of Minnesota Press)<br>- **_Gilles Deleuze's Time Machine_ — D. N. Rodowick** (Duke University Press) |
+| Phenomenology, Haptic Visuality, and Embodied Spectatorship | Examines how moving images engage the full sensorium, exploring embodied perception, tactile vision, synesthesia, and affect theory in intercultural and sensory cinema. | - **_The Address of the Eye: A Phenomenology of Film Experience_ — Vivian Sobchack** (Princeton University Press)<br>- **_The Skin of the Film: Intercultural Cinema, Embodiment, and the Senses_ — Laura U. Marks** (Duke University Press) |
+| Feminist, Queer, and Psychoanalytic Spectatorship | Deconstructs the ideological mechanics of the gaze, desire, apparatus theory, and queer subversions within cinematic narrative and visual pleasure. | - **_Visual and Other Pleasures_ — Laura Mulvey** (Palgrave Macmillan)<br>- **_Technologies of Gender: Essays on Theory, Film, and Fiction_ — Teresa de Lauretis** (Indiana University Press)<br>- **_Cinema and Spectatorship_ — Judith Mayne** (Routledge) |
+| Postcolonial, Transnational, and Third Cinema Frameworks | Analyzes non-Western cinematic practices, anti-colonial aesthetics, and diasporic flows that contest Hollywood hegemony and Eurocentric aesthetic standards. | - **"Towards a Third Cinema" — Fernando Solanas & Octavio Getino** (Seminal Manifesto)<br>- **_Unthinking Eurocentrism: Multiculturalism and the Media_ — Ella Shohat & Robert Stam** (Routledge)<br>- **_Cinema and Nation_ — Mette Hjort & Scott MacKenzie (Eds.)** (Routledge) |
 
-### B. Theory and Criticism
+## Media Industry Studies, Labor, and Political Economy
 
-- **[_Better Living Through Criticism_ — A. O. Scott](https://archive.org/details/betterlivingthro0000scot)** (Archive.org)
-- **[_Semiotics and Communication_ — Chandler](https://www.cs.princeton.edu/~chazelle/courses/BIB/semio2.htm)** (open web text; Daniel Chandler's semiotic guide)
+| Topic | Why Study | Resources |
+| --- | --- | --- |
+| Production Cultures and Creative Labor Ethnography | Analyzes the lived labor practices, institutional hierarchies, and behind-the-scenes rituals of above-the-line and below-the-line screen industry workers. | - **_Production Culture: Industrial Reflexivity and Critical Practice in Film and Television_ — John T. Caldwell** (Duke University Press)<br>- **_Creative Labour: Media Work in Three Cultural Industries_ — David Hesmondhalgh & Sarah Baker** (Routledge) |
+| Streaming Platforms, Aggregation, and Global Distribution Infrastructure | Investigates how multi-territorial streaming services and digital infrastructure reconfigure global cultural flows, regional windowing, licensing, and audience metrics. | - **_Netflix Nations: The Geography of Digital Distribution_ — Ramon Lobato** (NYU Press)<br>- **_Media Industries: History, Theory, and Method_ — Jennifer Holt & Alisa Perren (Eds.)** (Wiley-Blackwell) |
+| Media Governance, Copyright, and Intellectual Property | Explores the legal, structural, and political battles over intellectual property, digital rights management, fair use, and telecommunications regulation. | - **_The Politics of Media Policy_ — Des Freedman** (Polity Press)<br>- **_Wired Shut: Copyright and the Shape of Digital Culture_ — Tarleton Gillespie** (MIT Press)<br>- **_Free Culture_ — Lawrence Lessig** (The Penguin Press) |
+| Conglomeration, Platform Imperialism, and Cultural Economies | Critiques corporate concentration, financialization, and the geopolitical dominance of transnational tech-media conglomerates over global public spheres. | - **_Digital Platforms, Imperialism and Political Culture_ — Dal Yong Jin** (Routledge)<br>- **_The Cultural Industries_ (4th Edition) — David Hesmondhalgh** (Sage Publications) |
 
-### C. Media and Society
+## Digital Media, Algorithmic Culture, and Game Studies
 
-- **[_Global Entertainment and Media Industries_ — Hesmondhalgh](https://www.amazon.com/Cultural-Industries-David-Hesmondhalgh/dp/1526424118)** (Amazon; related to author's broader work)
-- **[_Custodians of the Internet_ — Tarleton Gillespie](https://custodiansoftheinternet.org/)** (open chapters/excerpts via author's site)
+| Topic | Why Study | Resources |
+| --- | --- | --- |
+| Software Studies and Platform Architecture | Interrogates the material code, computational layers, and platform affordances that structure user interfaces, computational aesthetics, and networked communication. | - **_The Language of New Media_ — Lev Manovich** (MIT Press)<br>- **_Platform Capitalism_ — Nick Srnicek** (Polity Press)<br>- **_Racing the Beam: The Atari Video Computer System_ — Nick Montfort & Ian Bogost** (MIT Press) |
+| Algorithmic Governance, Bias, and Content Moderation | Examines the automated systems, commercial content moderation practices, and data infrastructures that shape online speech, surveillance, and algorithmic discrimination. | - **[Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media — Tarleton Gillespie](http://custodiansoftheinternet.org/)** (Yale University Press)<br>- **_Algorithms of Oppression: How Search Engines Reinforce Racism_ — Safiya Umoja Noble** (NYU Press)<br>- **_The Age of Surveillance Capitalism_ — Shoshana Zuboff** (PublicAffairs) |
+| Critical Game Studies and Procedural Rhetoric | Analyzes video games as expressive rule-based systems, exploring procedural rhetoric, ludonarrative design, ideological immersion, and player agency. | - **[MIT OpenCourseWare – _Introduction to Videogame Studies_ (CMS.300)](https://ocw.mit.edu/courses/cms-300-introduction-to-videogame-studies-fall-2011/)**<br>- **_Persuasive Games: The Expressive Power of Videogames_ — Ian Bogost** (MIT Press)<br>- **_Half-Real: Video Games between Real Rules and Fictional Worlds_ — Jesper Juul** (MIT Press) |
+| AI, Generative Aesthetics, and Synthetic Media | Studies the philosophical, cultural, and political ramifications of generative artificial intelligence, neural rendering, automated creativity, and deepfake technologies. | - **_AI Art: Machine Visions and Warped Dreams_ — Joanna Zylinska** (Open Humanities Press)<br>- **_Duty Free Art: Art in the Age of Planetary Civil War_ — Hito Steyerl** (Verso Books)<br>- **_Artificial Aesthetics: A Critical Guide to AI, Media and Design_ — Lev Manovich & Emanuele Arielli** (Manovich.net) |
 
-### D. Digital and New Media
+## Advanced Narrative Architecture and Audiovisual Craft
 
-- **[_Understanding Digital Culture_ — Vincent Miller](https://archive.org/details/understandingdig0000mill)** (Archive.org)
-- **[MIT OCW – Platform Studies and Algorithmic Media](https://ocw.mit.edu/courses/cms-633-digital-humanities-spring-2015/)** (related digital media and platform theory)
+| Topic | Why Study | Resources |
+| --- | --- | --- |
+| Complex Television Poetics and Serial Narratology | Examines the formal evolution of serial television, analyzing multi-threaded storytelling, operational aesthetics, retrofitting, and narrative world-building. | - **_Complex TV: The Poetics of Contemporary Television Storytelling_ — Jason Mittell** (NYU Press)<br>- **"The Marvelous Year: Seriality and Television Poetics" — Sean O'Sullivan** (Critical Inquiry / Film & Media Studies readers) |
+| Advanced Directing, Visual Staging, and Mise-en-Scène | Develops master-level competencies in blocking, camera movement, lens selection, actor collaboration, and dramatic subtext in spatial composition. | - **_Directing: Film Techniques and Aesthetics_ — Michael Rabiger & Mick Hurbis-Cherrier** (Routledge / Focal Press)<br>- **_Picture Composition for Film and Television_ — Peter Ward** (Focal Press) |
+| Non-Linear Screenwriting and Structural Design | Breaks down complex, modular, and multi-protagonist narrative architectures, moving beyond classical three-act conventions into branched and fragmented narrative forms. | - **_The 21st-Century Screenplay: A Comprehensive Guide to Writing Tomorrow's Films_ — Linda Aronson** (Allen & Unwin)<br>- **_The Way Hollywood Tells It: Story and Style in Modern Movies_ — David Bordwell** (University of California Press) |
+| Film Sound Design and Audiovisual Ecology | Analyzes how acousmatic sound, leitmotifs, spatial mixing, and audio-visual counterpoint construct narrative meaning and psychological tension in cinema. | - **_Audio-Vision: Sound on Screen_ — Michel Chion** (Columbia University Press)<br>- **_Sound Theory, Sound Practice_ — Rick Altman (Ed.)** (Routledge)<br>- **"Designing a Movie for Sound" — Randy Thom** (FilmSound.org) |
+
+## Documentary, Avant-Garde, and Archival Media Archaeology
+
+| Topic | Why Study | Resources |
+| --- | --- | --- |
+| Documentary Rhetoric, Ethics, and Performative Modes | Evaluates the philosophical tensions between objectivity and authorship, non-fiction truth claims, participatory ethics, and performative documentary modalities. | - **_Representing Reality: Issues and Concepts in Documentary_ — Bill Nichols** (Indiana University Press)<br>- **_New Documentary: A Critical Introduction_ — Stella Bruzzi** (Routledge)<br>- **_Directing the Documentary_ — Michael Rabiger** (Routledge) |
+| Avant-Garde Cinema, Structuralism, and Expanded Media | Investigates non-narrative film, abstract animation, structuralist-materialist cinema, and spatialized multi-projector installations that challenge institutional cinema. | - **_Visionary Film: The American Avant-Garde, 1943–2000_ — P. Adams Sitney** (Oxford University Press)<br>- **_Abstract Film and Beyond_ — Malcolm Le Grice** (MIT Press)<br>- **_Expanded Cinema_ — Gene Youngblood** (Fordham University Press) |
+| Media Archaeology, Apparatus History, and Memory Preservation | Uncovers obsolete optical apparatuses, dead formats, and technological genealogies to critique linear narratives of media progress and archival preservation. | - **_Media Archaeology: Approaches, Applications, and Implications_ — Erkki Huhtamo & Jussi Parikka (Eds.)** (University of California Press)<br>- **_Digital Memory and the Archive_ — Wolfgang Ernst** (University of Minnesota Press)<br>- **_Silent Cinema: A Guide to Study, Research and Curatorship_ — Paolo Cherchi Usai** (BFI / Bloomsbury) |
+| The Essay Film and Videographic Film Criticism | Explores subjective audiovisual argumentation, desktop documentary, and the emerging field of videographic film criticism as both research methodology and creative art form. | - **_The Essay Film: Problems, Definitions, Textual Commitments_ — Laura Rascaroli** (Wallflower Press)<br>- **_The Essay Film: From Montaigne, After Marker_ — Timothy Corrigan** (Oxford University Press)<br>- **[[in]Transition: Journal of Videographic Film & Moving Image Studies](https://mediacommons.org/intransition/)** (Peer-reviewed videographic research journal) |
