@@ -6,8 +6,6 @@ A curated directory of step-by-step methodology guides, production workflows, an
 
 These projects bridge critical theory, historical inquiry, and creative media practice. Learners can choose an artifact to construct—whether an academic shot-by-shot analysis, a videographic essay, a feature screenplay, a documentary treatment, or a transmedia narrative map—and master disciplinary frameworks through practical execution.
 
----
-
 ## Textual Analysis and Film Criticism
 
 - [A Guide to Writing a Film Studies Paper — Carleton University](https://carleton.ca/filmstudies/undergraduate/resources-and-forms/guide-writing-film-studies-paper)
