@@ -105,22 +105,22 @@ Study them **in the exact order** listed below:
 | Subject | Book/Text | Course |
 | --- | --- | --- |
 | 3. History of Cinema | **[_Film History: An Introduction_ — Kristin Thompson & David Bordwell](https://archive.org/details/filmhistoryintro0000thom)** (Archive.org) | **Yale Film Studies – Film History lectures** (YouTube; explore related film/media playlists for historical coverage) |
-| 4. Television and Streaming Media History | - **_Television and American Culture_ — Jason Mittell** (Oxford University Press)<br/>- **[_The Television Will Be Revolutionized_ — Amanda D. Lotz](https://archive.org/details/televisionwillbe0000lotz)** (Archive.org) | **[Open University – Television Studies units](https://www.open.edu/openlearn/history-the-arts/television-studies)** (OpenLearn units and related free resources) |
+| 4. Television and Streaming Media History | - **_[Television and American Culture](https://books.google.com/books?isbn=9780195306675)_ — Jason Mittell** (Oxford University Press)<br/>- **[_The Television Will Be Revolutionized_ — Amanda D. Lotz](https://archive.org/details/televisionwillbe0000lotz)** (Archive.org) | **[Open University – Television Studies units](https://www.open.edu/openlearn/history-the-arts/television-studies)** (OpenLearn units and related free resources) |
 | 5. Digital and Networked Media History | **[_Understanding Digital Culture_ — Vincent Miller](https://archive.org/details/understandingdig0000mill)** (Archive.org) | **[MIT OCW – Digital Humanities / Media Studies](https://ocw.mit.edu/courses/cms-633-digital-humanities-spring-2015/)** (related digital media concepts and theory) |
 
 ## Core Analytical Frameworks
 
 | Subject | Book/Text | Course |
 | --- | --- | --- |
-| 6. Film Form: Visual and Sound Analysis | - **[_Film Art: An Introduction_ — Bordwell & Thompson](https://archive.org/details/filmartintroduct0000bord)** (selected chapters; Archive.org)<br/>- **Supplement**: **_A Short Guide to Writing About Film_ — Timothy Corrigan** (Pearson / Waveland Press) | **[MIT OpenCourseWare – Formal Analysis lectures](https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/)** (integrated in The Film Experience resources) |
+| 6. Film Form: Visual and Sound Analysis | - **[_Film Art: An Introduction_ — Bordwell & Thompson](https://archive.org/details/filmartintroduct0000bord)** (selected chapters; Archive.org)<br/>- **Supplement**: **_[A Short Guide to Writing About Film](https://books.google.com/books?isbn=9780205236398)_ — Timothy Corrigan** (Pearson / Waveland Press) | **[MIT OpenCourseWare – Formal Analysis lectures](https://ocw.mit.edu/courses/21l-011-the-film-experience-fall-2013/)** (integrated in The Film Experience resources) |
 | 7. Narrative, Genre, and Authorship | - **[_Film Art: An Introduction_ — Bordwell & Thompson](https://archive.org/details/filmartintroduct0000bord)** (selected chapters on narrative/genre)<br/>- **[_The Film Experience_ — Corrigan & White](https://archive.org/details/filmexperiencedef0000corr)** (Archive.org) | |
-| 8. Film and Media Theory (Survey) | - **[_Film Theory: An Introduction_ — Robert Stam](https://archive.org/details/filmtheoryintrod0000stam)** (Archive.org)<br/>- **Anthology**: **_Film Theory and Criticism: Introductory Readings_ — Leo Braudy & Marshall Cohen (Eds.)** (Oxford University Press) | |
+| 8. Film and Media Theory (Survey) | - **[_Film Theory: An Introduction_ — Robert Stam](https://archive.org/details/filmtheoryintrod0000stam)** (Archive.org)<br/>- **Anthology**: **_[Film Theory and Criticism: Introductory Readings](https://books.google.com/books?isbn=9780199376582)_ — Leo Braudy & Marshall Cohen (Eds.)** (Oxford University Press) | |
 
 ## Media, Culture, and Society
 
 | Subject | Book/Text | Course |
 | --- | --- | --- |
-| 9. Cultural Studies and Representation | - **[_Cultural Studies: Theory and Practice_ — Chris Barker & Emma A. Jane](https://uk.sagepub.com/en-gb/eur/cultural-studies/book252121)** (Sage Publications)<br/>- **_Representation: Cultural Representations and Signifying Practices_ — Stuart Hall (Ed.)** (Sage / Open University) | |
+| 9. Cultural Studies and Representation | - **[_Cultural Studies: Theory and Practice_ — Chris Barker & Emma A. Jane](https://uk.sagepub.com/en-gb/eur/cultural-studies/book252121)** (Sage Publications)<br/>- **_[Representation: Cultural Representations and Signifying Practices](https://books.google.com/books?isbn=9780761954323)_ — Stuart Hall (Ed.)** (Sage / Open University) | |
 | 10. Political Economy of Media | **[_The Cultural Industries_ — David Hesmondhalgh](https://archive.org/details/culturalindustri0000hesm)** (Archive.org) | |
 | 11. Audiences, Effects, and Reception | **[_Audience Analysis_ — Denis McQuail](https://archive.org/details/audienceanalysis0000mcqu)** (Archive.org) | |
 | 12. Media Ethics, Law, and Policy | **[_Media Ethics: Issues and Cases_ — Patterson et al.](https://www.amazon.com/Media-Ethics-Issues-Philip-Patterson/dp/1538162377)** (Amazon; preview available) | **[University of Amsterdam – Media Governance](https://www.coursera.org/learn/media-governance)** (Coursera, optional; may require free registration) |
@@ -129,7 +129,7 @@ Study them **in the exact order** listed below:
 
 | Subject | Book/Text | Course |
 | --- | --- | --- |
-| 13. Textual, Qualitative, and Cultural Research Methods | - **_How to Do Media and Cultural Studies_ — Jane Stokes** (Sage Publications)<br/>- **_A Short Guide to Writing About Film_ — Timothy Corrigan** (Pearson / Waveland Press)<br/>- **Supplement**: Selected chapters from McQuail (methods sections) | |
+| 13. Textual, Qualitative, and Cultural Research Methods | - **_[How to Do Media and Cultural Studies](https://books.google.com/books?isbn=9781849207867)_ — Jane Stokes** (Sage Publications)<br/>- **_[A Short Guide to Writing About Film](https://books.google.com/books?isbn=9780205236398)_ — Timothy Corrigan** (Pearson / Waveland Press)<br/>- **Supplement**: Selected chapters from McQuail (methods sections) | |
 
 ## Media Production Foundations
 
